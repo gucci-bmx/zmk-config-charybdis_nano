@@ -187,7 +187,7 @@
 
         MSNIPE {
             bindings = <
-  &trans  &trans  &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans
+  &kp Q   &trans  &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans
   &trans  &trans  &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans
   &trans  &trans  &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans
                   &mkp RCLK  &mkp LCLK  &mkp MCLK    &trans  &trans
